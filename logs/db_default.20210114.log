@@ -1,0 +1,8 @@
+time="2021-01-14 10:05:32.358" level=info msg="errorD:/wwwroot/push_service/src/models/pushMessageLog.go:104Error 1146: Table 'yibai_dcm_message.dcm_push_message' doesn't exist"
+time="2021-01-14 10:07:34.194" level=info msg="errorD:/wwwroot/push_service/src/models/pushMessage.go:30Error 1146: Table 'yibai_dcm_message.dcm_push_message' doesn't exist"
+time="2021-01-14 10:07:41.825" level=info msg="errorD:/wwwroot/push_service/src/models/pushMessage.go:30Error 1146: Table 'yibai_dcm_message.dcm_push_message' doesn't exist"
+time="2021-01-14 10:07:49.833" level=info msg="errorD:/wwwroot/push_service/src/models/pushMessageLog.go:104Error 1146: Table 'yibai_dcm_message.dcm_push_message' doesn't exist"
+time="2021-01-14 10:07:49.833" level=info msg="errorD:/wwwroot/push_service/src/models/pushMessageLog.go:104Error 1146: Table 'yibai_dcm_message.dcm_push_message' doesn't exist"
+time="2021-01-14 10:08:17.897" level=info msg="errorD:/wwwroot/push_service/src/models/pushMessage.go:30Error 1146: Table 'yibai_dcm_message.dcm_push_message' doesn't exist"
+time="2021-01-14 10:09:54.434" level=info msg="errorD:/wwwroot/push_service/src/models/pushMessage.go:30Error 1054: Unknown column 'res_type' in 'field list'"
+time="2021-01-14 10:10:13.951" level=info msg="errorD:/wwwroot/push_service/src/models/pushMessage.go:30Error 1054: Unknown column 'res_type' in 'field list'"
